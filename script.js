@@ -1,3 +1,3 @@
-function admission() {
-    alert("Admission form submitted!");
+function addToCart() {
+    alert("Item added to cart successfully!");
 }
